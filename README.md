@@ -2,6 +2,6 @@
 Short description of project1.
 
 ## New Section
-This is a new section (conflict-branch version).
+This is a new section (resolved).
 This line is from master branch
 This line is from conflict branch
