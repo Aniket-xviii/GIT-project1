@@ -3,3 +3,4 @@ Short description of project1.
 
 ## New Section
 This is a new section.
+This line is from master branch
