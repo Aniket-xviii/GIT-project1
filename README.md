@@ -2,4 +2,5 @@
 Short description of project1.
 
 ## New Section
-This is a new section (master version).
+This is a new section (conflict-branch version).
+
